@@ -2,13 +2,13 @@
 
 ![Company Logo](https://github.com/AmanJaiswal9973/superstore_sales_dashboard/blob/main/superstore%20sales%20dashboard%201_page-0001.jpg)
 
-power bi dashboard
-Power BI Dashboard Project- Super Store Sales and Sales Forecasting
+Power Bi Dashboard
+## Power BI Dashboard Project- Super Store Sales and Sales Forecasting
 
-Project Objective-
+## Project Objective-
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-Description 
+## Description-
 The objective can be broken down into the following detailed components: 
 1. Dashboard Creation : Identify the KPIs , design an intuitive and visually appealing dashboard , add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
 2. Data Analysis : Provide valuable insights to business entities regarding the effectiveness of their sales strategies through  visualization and charts
@@ -17,7 +17,7 @@ The objective can be broken down into the following detailed components:
 
 ![Company Logo](https://github.com/AmanJaiswal9973/superstore_sales_dashboard/blob/main/superstore%20sales%20dashboard%202_page-0001.jpg)
    
-Project Insights- 2 Year (2019 To 2020)
+## Project Insights- 2 Year (2019 To 2020)
 Wow change: 
 * Sales increased by 77.5%, 
 * Profit increased by 14.2%, 
@@ -31,5 +31,5 @@ Wow change:
 * Most Selling By Shipping Mode is Standard Class,
 * California & New York are contributing to 33.1% of Sales.
 
-Sales Forecasting (15 Day)-
+## Sales Forecasting (15 Day)-
 •The possibility of sales in these 15 days are between 1.1K to 9.4K.
