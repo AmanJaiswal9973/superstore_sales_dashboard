@@ -1,4 +1,7 @@
 # superstore_sales_dashboard
+
+![Company Logo](https://github.com/AmanJaiswal9973/superstore_sales_dashboard/blob/main/superstore%20sales%20dashboard%201.pdf)
+
 power bi dashboard
 Power BI Dashboard Project- Super Store Sales and Sales Forecasting
 
