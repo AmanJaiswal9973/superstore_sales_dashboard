@@ -1,11 +1,11 @@
-# Superstore Sales Dashboard
+# 🛒 Super Store Sales and Sales Forecasting(Power BI Project)
+This Power BI dashboard project analyzes 2 years of Superstore sales data to uncover performance insights across categories, customer segments, shipping modes, and regions. The project also includes time series forecasting to predict the next 15 days of sales, supporting business growth strategies.
+
+
+## 🎯 Project Objective-
+To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ![Company Logo](https://github.com/AmanJaiswal9973/superstore_sales_dashboard/blob/main/superstore%20sales%20dashboard%201_page-0001.jpg)
-
-## Power BI Dashboard Project- Super Store Sales and Sales Forecasting
-
-## Project Objective-
-To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## Description-
 The objective can be broken down into the following detailed components: 
@@ -16,19 +16,36 @@ The objective can be broken down into the following detailed components:
 
 ![Company Logo](https://github.com/AmanJaiswal9973/superstore_sales_dashboard/blob/main/superstore%20sales%20dashboard%202_page-0001.jpg)
    
-## Project Insights- 2 Year (2019 To 2020)
-Wow change: 
-* Sales increased by 77.5%, 
-* Profit increased by 14.2%, 
-* Overall Sales is 1.6M,
-* Overall Profit is 175K,
-* Total Quantity is 22K,
-* Average Delivery time is 4 Day,
-* Most Selling Region is West-33%,
-* Most Payment Mode are used- COD 43%,
-* Office Supplies is contributing to 40%,
-* Most Selling By Shipping Mode is Standard Class,
-* California & New York are contributing to 33.1% of Sales.
+## 🧰 Tools & Techniques
+- **Power BI**: Dashboard Design, DAX Measures
+- **Time Series Analysis**: 15-Day Sales Forecast
+- **Excel**: Preprocessed sales data
+- **DAX**: Custom calculations and KPI metrics
 
-## Sales Forecasting (15 Day)-
-•The possibility of sales in these 15 days are between 1.1K to 9.4K.
+## 📊 Dashboard Highlights
+- Total Sales: ₹1.6M | Profit: ₹175K | Quantity: 22K
+- Sales by Region, State, and Category
+- Shipping Mode & Payment Method Analysis
+- Forecasting Sales Trends for the next 15 days
+- KPI Cards & Filters for real-time insights
+
+## 🔍 Business Insights
+- 77.5% YoY Sales Growth | 14.2% Profit Growth
+- Most Sales from: Office Supplies, Phones, Chairs
+- Top Region: West (33%) | Top State: California (₹340K)
+- Most Used Payment: COD (43%)
+- Average delivery time: 4 days
+
+## 📈 Forecasting Details
+- Time range: Jan 2019 to Dec 2020
+- Forecast range: Next 15 days (Jan 2021)
+- Expected daily sales: ₹1.1K – ₹9.4K
+
+## 📂 Files Included
+- `superstore sales dashboard 1.pdf` – KPI & sales analysis dashboard
+- `superstore sales dashboard 2.pdf` – Time series & state-wise forecasting dashboard
+- `.pbix file` (if applicable) – Power BI report file
+
+---
+
+📌 Created with 💡 by Aman Jaiswal
